@@ -119,3 +119,9 @@ footer ul {
   justify-content: space-around;
   align-items: center;
 }
+
+.shoe-list{
+    max-width: 900px;
+    margin: 0 auto;
+    list-style-type: square;
+  }
