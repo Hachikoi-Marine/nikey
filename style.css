@@ -81,16 +81,14 @@ section {
 
 .prods {
   margin-top: 5rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
   gap: 4rem;
 }
 
 .prods img {
+  margin: 1rem auto;
+  display: block;
   width: 20rem;
-  height: 30rem;
+  height: 15rem;
   object-fit: cover;
 }
 
@@ -120,8 +118,8 @@ footer ul {
   align-items: center;
 }
 
-.shoe-list{
-    max-width: 900px;
-    margin: 0 auto;
-    list-style-type: square;
-  }
+.shoe-list {
+  max-width: 900px;
+  margin: 0 auto;
+  list-style-type: square;
+}
